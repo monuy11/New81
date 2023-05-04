@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Com.Actitime.Testng.vijayMallya"/>
+      <class name="Com.Actitime.Testng.NiravModi"/>
+      <class name="Com.Actitime.Testng.MehuChoksi"/>
+      <class name="Com.Actitime.Testng.DemoTesting"/>
+      <class name="Com.Actitime.Testng.Ambani"/>
+      <class name="Com.Actitime.Testng.PrioRity"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
